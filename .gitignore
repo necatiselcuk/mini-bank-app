@@ -1,0 +1,17 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+mini_bank
+
+# Data and receipt files created when the program runs
+customers.txt
+account_receipt.txt
+account_closing_receipt.txt
+transfer_money.txt
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
